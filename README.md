@@ -33,18 +33,6 @@ Nesta etapa, os dados são obtidos da API pública de COVID-19: `https://disease
     'affectedCountries': 231
 }
 ```
-
-### Em Desenvolvimento...
-
-Estou atualmente trabalhando na etapa de transformação, que envolve o processamento dos dados extraídos. Nesta fase, estou:
-
-- Selecionando os dados mais relevantes para análise.
-- Calculando métricas e estatísticas importantes.
-- Limpando e preparando os dados para que estejam prontos para uso.
-- Aplicando transformações específicas conforme necessário.
-
-Esta etapa é crucial para garantir que os dados estejam na forma correta para análise posterior e para a carga no banco de dados e no arquivo Excel. 
-
 ### 2. Transformação (Transform)
 
 Os dados extraídos são processados para selecionar as informações relevantes e calculados campos adicionais, como casos ativos, casos por milhão, etc.
